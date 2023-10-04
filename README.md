@@ -21,3 +21,14 @@
 <img src="https://i.imgur.com/PcSqlBr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
 
+<h2>Investigate login activity</h2>
+
+
+- Write a SQL query to select the event_id and country columns from the log_in_attempts table.
+
+<img src="https://i.imgur.com/bLNocG0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+- Write a SQL query that selects the username, login_date, and login_time columns from the log_in_attempts table.
+
+<img src="https://i.imgur.com/Wnwij8V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
