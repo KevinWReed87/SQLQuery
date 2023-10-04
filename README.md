@@ -32,3 +32,19 @@
 
 <img src="https://i.imgur.com/Wnwij8V.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
 
+- Write a SQL query that selects all columns from the log_in_attempts table, using a single symbol after the SELECT keyword.
+
+<img src="https://i.imgur.com/s3hYqZl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+<h2>Order login attempts data</h2>
+
+- Run the following query, which orders log_in_attempts data by login_date
+
+<img src="https://i.imgur.com/hdTflnn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+- Modify the query from the previous step by adding the login time to the ORDER BY clause.
+
+<img src="https://i.imgur.com/bqbQWOc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+
+
