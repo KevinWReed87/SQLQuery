@@ -1,3 +1,6 @@
+<img src="https://i.imgur.com/Z29n0r2.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/></p>
+
+
 <h1>SQL Query<h1>
 
 
